@@ -23,3 +23,4 @@ public class ForApplyExam {
 	}
 
 }
+// 변경
